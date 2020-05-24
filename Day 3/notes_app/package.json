@@ -1,0 +1,14 @@
+{
+  "name": "notes_app",
+  "version": "1.0.0",
+  "description": "This is a simple yet elegant notes app",
+  "main": "notes.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kushagra",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^15.3.1"
+  }
+}
